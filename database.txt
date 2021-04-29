@@ -1,0 +1,3 @@
+x,Roni Sumantri,628219988,Indonesia,T-Shirt
+x,Ayu Chaeyang,109954321,Korea,Jackets
+x,Rose Pink,720256789,France,Shoes
